@@ -1,0 +1,4 @@
+name: PluginTemplate
+version: '${version}'
+main: com.rombe.papermc.plguinname.PluginTemplate
+api-version: '1.20'
